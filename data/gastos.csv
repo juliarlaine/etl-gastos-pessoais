@@ -1,0 +1,301 @@
+data,categoria,valor,descricao
+2025-04-23,Educação,319.99,Curso online
+2025-06-08,Transporte,205.0,Ônibus
+2025-02-24,Moradia,356.48,Aluguel
+2025-01-29,Saúde,239.67,Consulta médica
+2025-06-07,Lazer,317.87,Viagem
+2025-05-22,Saúde,551.2,Farmácia
+2025-02-09,Alimentação,341.87,Café
+2025-01-03,Lazer,389.87,Viagem
+2025-02-28,Moradia,54.9,Conta de luz
+2025-01-05,Saúde,44.1,Farmácia
+2025-04-13,Lazer,570.79,Restaurante
+2025-06-30,Transporte,104.41,Uber
+2025-03-25,Alimentação,479.61,Mercado
+2025-04-22,Lazer,382.14,Restaurante
+2025-06-03,Lazer,392.13,Viagem
+2025-01-10,Alimentação,284.93,Jantar
+2025-06-21,Moradia,343.22,Internet
+2025-03-31,Transporte,503.71,Ônibus
+2025-05-13,Transporte,100.1,Uber
+2025-04-23,Saúde,42.76,Farmácia
+2025-06-28,Alimentação,150.1,Almoço
+2025-02-16,Alimentação,117.63,Almoço
+2025-05-14,Moradia,58.1,Aluguel
+2025-05-29,Transporte,563.19,Uber
+2025-01-27,Transporte,575.22,Ônibus
+2025-05-31,Saúde,350.04,Consulta médica
+2025-03-20,Saúde,73.45,Consulta médica
+2025-01-05,Lazer,235.08,Restaurante
+2025-05-30,Alimentação,448.16,Jantar
+2025-01-16,Alimentação,436.38,Almoço
+2025-03-16,Saúde,570.41,Farmácia
+2025-06-06,Moradia,204.39,Conta de água
+2025-05-15,Moradia,61.8,Internet
+2025-06-22,Saúde,171.78,Consulta médica
+2025-06-19,Saúde,584.35,Consulta médica
+2025-05-17,Alimentação,103.26,Almoço
+2025-03-22,Moradia,569.87,Aluguel
+2025-03-05,Moradia,195.95,Internet
+2025-03-15,Educação,211.72,Livro
+2025-03-04,Lazer,243.5,Cinema
+2025-05-27,Alimentação,369.48,Almoço
+2025-04-21,Transporte,210.41,Combustível
+2025-03-17,Moradia,261.17,Conta de água
+2025-06-23,Alimentação,327.45,Jantar
+2025-02-08,Educação,181.22,Livro
+2025-01-31,Educação,249.44,Curso online
+2025-05-23,Alimentação,584.43,Café
+2025-06-27,Moradia,139.78,Conta de luz
+2025-01-06,Transporte,41.67,Uber
+2025-06-04,Transporte,197.35,Ônibus
+2025-06-01,Transporte,65.35,Ônibus
+2025-02-09,Lazer,126.25,Viagem
+2025-06-18,Moradia,126.87,Conta de luz
+2025-06-11,Saúde,208.54,Consulta médica
+2025-05-24,Alimentação,362.24,Almoço
+2025-01-05,Moradia,428.82,Aluguel
+2025-02-25,Saúde,38.99,Farmácia
+2025-03-16,Lazer,412.48,Viagem
+2025-02-08,Transporte,310.3,Uber
+2025-04-13,Lazer,301.24,Cinema
+2025-06-29,Alimentação,151.56,Jantar
+2025-06-25,Lazer,246.9,Cinema
+2025-04-26,Lazer,409.24,Viagem
+2025-06-03,Saúde,387.79,Farmácia
+2025-01-21,Educação,349.8,Curso online
+2025-02-10,Educação,584.54,Livro
+2025-02-20,Moradia,275.86,Internet
+2025-06-18,Educação,363.13,Livro
+2025-06-17,Lazer,340.61,Viagem
+2025-05-02,Lazer,103.29,Restaurante
+2025-03-07,Moradia,505.68,Internet
+2025-05-11,Educação,513.04,Curso online
+2025-02-19,Alimentação,401.11,Almoço
+2025-02-23,Lazer,379.82,Cinema
+2025-03-14,Moradia,388.14,Internet
+2025-05-04,Educação,203.88,Livro
+2025-05-13,Alimentação,315.32,Almoço
+2025-06-10,Moradia,466.57,Aluguel
+2025-03-23,Alimentação,421.61,Almoço
+2025-05-08,Educação,136.99,Livro
+2025-03-16,Transporte,548.79,Uber
+2025-02-01,Educação,449.82,Livro
+2025-01-02,Transporte,309.63,Uber
+2025-04-22,Transporte,196.91,Combustível
+2025-05-15,Moradia,296.82,Internet
+2025-01-04,Saúde,154.63,Consulta médica
+2025-01-22,Alimentação,131.73,Jantar
+2025-05-22,Saúde,560.93,Consulta médica
+2025-03-14,Moradia,292.51,Aluguel
+2025-04-08,Moradia,588.87,Conta de luz
+2025-02-10,Alimentação,294.31,Almoço
+2025-05-07,Moradia,417.74,Internet
+2025-06-18,Moradia,157.77,Aluguel
+2025-03-03,Educação,119.53,Livro
+2025-04-19,Saúde,330.66,Consulta médica
+2025-01-16,Lazer,307.78,Cinema
+2025-03-23,Saúde,85.1,Consulta médica
+2025-05-06,Educação,445.43,Curso online
+2025-01-18,Alimentação,218.71,Almoço
+2025-03-03,Lazer,158.59,Viagem
+2025-05-26,Lazer,27.49,Cinema
+2025-05-21,Saúde,126.44,Consulta médica
+2025-05-02,Moradia,220.91,Conta de água
+2025-05-18,Alimentação,330.16,Café
+2025-03-07,Moradia,382.85,Conta de luz
+2025-02-12,Saúde,434.63,Consulta médica
+2025-04-02,Saúde,561.22,Consulta médica
+2025-05-24,Lazer,232.87,Restaurante
+2025-02-28,Moradia,299.47,Internet
+2025-02-05,Moradia,428.5,Conta de água
+2025-02-11,Moradia,273.58,Conta de água
+2025-01-15,Lazer,557.05,Restaurante
+2025-05-18,Saúde,566.5,Farmácia
+2025-04-10,Transporte,238.65,Combustível
+2025-04-05,Educação,531.32,Curso online
+2025-02-17,Lazer,254.64,Restaurante
+2025-01-13,Saúde,428.65,Consulta médica
+2025-05-30,Moradia,380.26,Conta de água
+2025-01-21,Saúde,429.16,Farmácia
+2025-01-11,Educação,551.54,Curso online
+2025-03-10,Lazer,395.12,Restaurante
+2025-03-15,Saúde,470.61,Consulta médica
+2025-02-10,Saúde,453.4,Farmácia
+2025-02-12,Lazer,98.7,Restaurante
+2025-06-03,Saúde,594.07,Consulta médica
+2025-04-24,Moradia,197.84,Internet
+2025-01-04,Alimentação,544.94,Jantar
+2025-03-09,Educação,357.65,Livro
+2025-02-16,Transporte,394.39,Combustível
+2025-04-22,Moradia,162.42,Aluguel
+2025-02-25,Alimentação,260.95,Mercado
+2025-06-21,Lazer,588.37,Viagem
+2025-01-23,Educação,504.65,Curso online
+2025-06-14,Saúde,117.46,Consulta médica
+2025-01-09,Moradia,589.95,Conta de água
+2025-06-13,Saúde,427.71,Farmácia
+2025-01-25,Moradia,62.36,Internet
+2025-05-28,Alimentação,284.52,Jantar
+2025-06-02,Transporte,401.48,Uber
+2025-01-24,Alimentação,167.28,Almoço
+2025-05-21,Transporte,416.35,Combustível
+2025-05-09,Moradia,338.01,Aluguel
+2025-05-10,Educação,163.15,Livro
+2025-03-03,Transporte,175.99,Combustível
+2025-01-21,Educação,474.91,Livro
+2025-02-23,Saúde,176.03,Consulta médica
+2025-06-08,Educação,92.61,Curso online
+2025-01-14,Saúde,92.34,Farmácia
+2025-01-17,Saúde,223.0,Consulta médica
+2025-02-23,Educação,410.06,Curso online
+2025-05-08,Educação,358.89,Livro
+2025-06-20,Lazer,301.06,Viagem
+2025-02-19,Moradia,266.0,Internet
+2025-03-03,Saúde,531.26,Farmácia
+2025-03-27,Moradia,531.24,Conta de luz
+2025-04-20,Moradia,240.66,Conta de luz
+2025-06-17,Alimentação,113.02,Almoço
+2025-06-19,Moradia,67.14,Conta de luz
+2025-06-12,Educação,475.28,Curso online
+2025-03-27,Moradia,396.19,Internet
+2025-05-09,Educação,355.3,Livro
+2025-04-14,Moradia,124.58,Conta de água
+2025-03-02,Moradia,280.17,Internet
+2025-01-17,Educação,52.41,Livro
+2025-04-17,Transporte,88.21,Uber
+2025-01-05,Lazer,89.04,Restaurante
+2025-05-22,Alimentação,230.25,Café
+2025-01-07,Saúde,301.9,Consulta médica
+2025-05-06,Moradia,239.53,Aluguel
+2025-03-19,Moradia,113.41,Aluguel
+2025-05-03,Transporte,145.77,Ônibus
+2025-03-21,Moradia,123.33,Conta de luz
+2025-04-27,Moradia,474.67,Conta de luz
+2025-02-20,Saúde,357.8,Farmácia
+2025-05-08,Moradia,541.66,Internet
+2025-02-17,Transporte,228.54,Uber
+2025-02-20,Transporte,591.97,Ônibus
+2025-01-30,Alimentação,398.27,Café
+2025-02-19,Alimentação,121.93,Mercado
+2025-06-02,Lazer,497.76,Cinema
+2025-05-15,Saúde,463.75,Consulta médica
+2025-04-19,Lazer,449.34,Viagem
+2025-01-25,Saúde,46.41,Farmácia
+2025-06-27,Alimentação,519.51,Café
+2025-03-14,Educação,116.84,Livro
+2025-06-16,Saúde,223.41,Farmácia
+2025-04-20,Saúde,180.07,Farmácia
+2025-04-29,Lazer,87.38,Viagem
+2025-02-14,Moradia,247.39,Internet
+2025-05-01,Transporte,499.28,Ônibus
+2025-01-15,Moradia,368.29,Internet
+2025-06-23,Alimentação,525.92,Mercado
+2025-05-27,Transporte,216.89,Uber
+2025-01-13,Alimentação,408.09,Café
+2025-05-25,Transporte,502.4,Combustível
+2025-03-04,Saúde,107.51,Farmácia
+2025-01-16,Moradia,159.9,Conta de luz
+2025-02-27,Educação,272.21,Livro
+2025-04-02,Lazer,389.4,Viagem
+2025-05-03,Educação,201.81,Curso online
+2025-02-21,Lazer,231.83,Viagem
+2025-03-16,Alimentação,394.61,Café
+2025-05-14,Alimentação,372.68,Café
+2025-04-12,Saúde,344.11,Consulta médica
+2025-05-27,Saúde,347.59,Consulta médica
+2025-03-25,Saúde,320.67,Consulta médica
+2025-03-25,Alimentação,167.84,Jantar
+2025-01-20,Lazer,300.53,Cinema
+2025-02-20,Alimentação,594.24,Jantar
+2025-06-10,Alimentação,538.94,Café
+2025-05-20,Lazer,368.12,Cinema
+2025-05-25,Transporte,522.71,Uber
+2025-02-13,Alimentação,109.1,Almoço
+2025-06-20,Lazer,359.9,Viagem
+2025-04-14,Educação,32.83,Livro
+2025-04-17,Moradia,431.23,Aluguel
+2025-03-09,Saúde,92.72,Consulta médica
+2025-02-24,Lazer,588.24,Cinema
+2025-06-17,Moradia,371.7,Conta de água
+2025-05-17,Saúde,425.06,Consulta médica
+2025-05-31,Lazer,512.96,Cinema
+2025-01-28,Alimentação,306.51,Jantar
+2025-05-13,Moradia,450.78,Internet
+2025-01-31,Educação,38.5,Livro
+2025-03-29,Saúde,357.91,Farmácia
+2025-05-09,Saúde,325.59,Consulta médica
+2025-06-09,Transporte,161.96,Combustível
+2025-05-24,Saúde,78.95,Consulta médica
+2025-04-24,Alimentação,193.22,Café
+2025-01-24,Saúde,277.59,Farmácia
+2025-01-23,Educação,162.06,Livro
+2025-01-24,Saúde,110.3,Consulta médica
+2025-01-17,Lazer,190.88,Restaurante
+2025-04-02,Educação,386.78,Livro
+2025-05-31,Alimentação,323.54,Café
+2025-06-08,Lazer,312.85,Viagem
+2025-05-21,Saúde,103.45,Consulta médica
+2025-06-21,Moradia,514.17,Internet
+2025-06-23,Moradia,57.49,Internet
+2025-02-04,Alimentação,35.32,Café
+2025-05-28,Transporte,312.34,Ônibus
+2025-02-05,Lazer,268.3,Restaurante
+2025-01-01,Educação,315.98,Livro
+2025-04-30,Saúde,222.1,Consulta médica
+2025-06-06,Educação,80.01,Curso online
+2025-06-14,Educação,161.92,Livro
+2025-06-05,Lazer,240.82,Cinema
+2025-03-31,Saúde,430.9,Consulta médica
+2025-03-22,Alimentação,596.4,Jantar
+2025-03-15,Lazer,381.96,Cinema
+2025-01-25,Educação,526.41,Curso online
+2025-03-25,Saúde,277.83,Farmácia
+2025-06-24,Alimentação,188.83,Almoço
+2025-04-09,Alimentação,46.59,Jantar
+2025-04-07,Moradia,217.46,Aluguel
+2025-06-28,Alimentação,171.73,Café
+2025-05-29,Educação,453.06,Livro
+2025-01-16,Transporte,320.32,Combustível
+2025-06-17,Moradia,366.13,Conta de água
+2025-04-14,Saúde,230.44,Consulta médica
+2025-05-09,Educação,287.71,Curso online
+2025-05-10,Saúde,167.62,Farmácia
+2025-01-21,Moradia,506.45,Conta de luz
+2025-05-21,Lazer,184.41,Viagem
+2025-02-12,Moradia,367.04,Conta de água
+2025-05-25,Transporte,115.65,Combustível
+2025-03-23,Lazer,77.35,Viagem
+2025-06-30,Transporte,238.52,Combustível
+2025-01-25,Educação,180.07,Livro
+2025-03-05,Educação,306.04,Livro
+2025-02-09,Transporte,248.22,Uber
+2025-06-16,Alimentação,154.23,Café
+2025-05-25,Moradia,190.62,Internet
+2025-02-06,Saúde,546.55,Farmácia
+2025-03-07,Educação,596.09,Curso online
+2025-02-15,Moradia,28.25,Conta de água
+2025-04-17,Moradia,376.43,Aluguel
+2025-02-25,Lazer,352.31,Restaurante
+2025-03-15,Saúde,473.82,Consulta médica
+2025-02-26,Lazer,102.52,Viagem
+2025-04-20,Moradia,210.21,Conta de água
+2025-05-31,Lazer,321.42,Viagem
+2025-03-31,Educação,72.01,Livro
+2025-03-02,Educação,369.04,Curso online
+2025-04-13,Saúde,326.11,Farmácia
+2025-01-09,Educação,180.01,Curso online
+2025-04-19,Alimentação,78.82,Mercado
+2025-04-24,Saúde,162.26,Consulta médica
+2025-02-14,Alimentação,171.04,Mercado
+2025-04-24,Saúde,362.48,Farmácia
+2025-03-29,Educação,93.3,Livro
+2025-03-13,Saúde,104.47,Farmácia
+2025-06-03,Lazer,399.43,Restaurante
+2025-06-11,Transporte,196.03,Uber
+2025-06-11,Educação,45.43,Livro
+2025-06-22,Lazer,591.3,Viagem
+2025-06-08,Educação,445.25,Curso online
+2025-05-01,Lazer,346.0,Cinema
+2025-04-27,Transporte,565.92,Ônibus
+2025-02-03,Moradia,498.16,Conta de água
